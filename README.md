@@ -2,8 +2,6 @@
 
 DBMS Mini Project | KIET Group of Institutions | Academic Year 2026–27
 
-Submitted by: **Prayas Singh** (202501100100189)
-
 ## About
 
 A MySQL database that stores gym members, their membership plans and their attendance records. It uses three related tables with primary keys and foreign keys, and SQL queries to get information from them.
